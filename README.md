@@ -2,30 +2,30 @@
 The ATM Simulator is a simple console-based Java project that mimics the basic functionality of an Automated Teller Machine. It allows users to interact with a menu-driven system and perform essential banking operations using loops, conditions, and user input handling.
 🔹 Features:
 
-Check Balance – Displays the current account balance.
+◘Check Balance – Displays the current account balance.
 
-Deposit Money – Allows the user to add money to their account. Invalid amounts (like negative deposits) are rejected.
+◘Deposit Money – Allows the user to add money to their account. Invalid amounts (like negative deposits) are rejected.
 
-Withdraw Money – Enables cash withdrawal if the entered amount is valid and does not exceed the available balance.
+◘Withdraw Money – Enables cash withdrawal if the entered amount is valid and does not exceed the available balance.
 
-Exit Option – Terminates the program when the user chooses to exit.
+◘CExit Option – Terminates the program when the user chooses to exit.
 
 🔹 Technical Highlights:
 
-Implemented using Java fundamentals (variables, loops, conditions, and switch-case).
+◘CImplemented using Java fundamentals (variables, loops, conditions, and switch-case).
 
-Uses a do-while loop for repeating the ATM menu until the user exits.
+◘CUses a do-while loop for repeating the ATM menu until the user exits.
 
-Incorporates input validation to handle incorrect choices, negative deposits, and insufficient funds.
+◘CIncorporates input validation to handle incorrect choices, negative deposits, and insufficient funds.
 
-Initial balance is set (e.g., ₹1000), which changes dynamically as transactions occur.
+◘CInitial balance is set (e.g., ₹1000), which changes dynamically as transactions occur.
 
 🔹 Learning Outcomes:
 
-Practice in menu-driven programming.
+◘CPractice in menu-driven programming.
 
-Hands-on experience with loops (do-while), switch-case, and conditional statements.
+◘CHands-on experience with loops (do-while), switch-case, and conditional statements.
 
-Understanding of basic banking logic in a software simulation.
+◘CUnderstanding of basic banking logic in a software simulation.
 
 Reinforcement of scanner-based user input handling in Java.
